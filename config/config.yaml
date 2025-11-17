@@ -91,6 +91,8 @@ platforms:
     name: "知乎"
   - id: "hupu"
     name: "虎扑"
+  - id: "xiaohongshu"
+    name: "小红书"
     
  # === 综合新闻媒体类 ===
   - id: "toutiao"
